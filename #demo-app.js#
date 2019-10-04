@@ -1,0 +1,4 @@
+var something = require("cat-me"); 
+console.log("From app.js Written with emacs"); 
+console.log(something()); 
+console.log("glooooooooooe"); 
